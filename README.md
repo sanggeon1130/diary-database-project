@@ -1,1 +1,2 @@
-# diary-database-project
+# diary-database-project.
+# diary service for everyone.
